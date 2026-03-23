@@ -1,5 +1,9 @@
 # Projects 2023 - 2025
-
+## Modeling a Quality-Oriented Evaluation System for Primary Health Care Teams in Portugal
+#### Program: Python and R
+#### Author: José Pedro Rodrigues
+##### _(Currently in the process of publication)_
+Evaluated the current Portuguese commissioning system (IDE), and developed an alternative framework to determine the true quality of Primary Health Care units in Portugal through a more personalised and mathematically accurate approach.
 ## NYC OpenData 311 Service requests Dashboard
 #### Program: R (Libraries: Shiny)
 #### Authors: José Pedro Rodrigues, Diana Simôes, Tomás Ferreira, Ana Luísa Rocha
@@ -28,16 +32,19 @@ Generated several artificial datasets with different conditions and explored var
 ## Identify set of Open Reading Frames (ORFs) located in the yeast genome
 #### Program: Python
 #### Authors: José Pedro Rodrigues, Cecília Santos, Tomás Ferreira
+##### _(Private Repository)_
 Data collection in UCSC Genome Browser, functions to explore genome statistics including frequency of DNA molecule bases, frequency of codons and GC content. Identification of all potential ORFs in positive and negative strands.
 
 ## Protein Sequence Classification
 #### Program: Python (Packages: Pandas and Scikit-learn))
-#### Authors: José Pedro Rodrigues, Cecília Santos, Tomás Ferreira 
+#### Authors: José Pedro Rodrigues, Cecília Santos, Tomás Ferreira
+##### _(Private Repository)_
 Exploratory project evaluating the possibility of classifying protein sequences based on their sequences (dinucleotide composition). Explored two protein sequence families (Zinc finger and globins) and used the Feature Frequency Profiles (FFP) approachand create a classification problem exploring numerous ML algorithms.
 
 ## Phylogenetics of the hemoglobin gene
 #### Program: Python (Packages: BioPython and Uniprot)
 #### Authors: José Pedro Rodrigues, Cecília Santos, Tomás Ferreira
+##### _(Private Repository)_
 Explore the phylogenetic evolution of hemoglobin across different species, with relation to the hemoglobin gene found in humans (HBB_HUMAN, UniProt P68871). Includes data collection, BLAST analysis, Multiple sequence alignment, and development of phylogenetic tree.
 
 ## Analysis and forecast of the Earth Surface temperature
