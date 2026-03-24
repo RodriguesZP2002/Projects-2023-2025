@@ -20,6 +20,11 @@ The dataset was obtained from Kaggle and analyzed using univariate, bivariate, a
 #### Authors: José Pedro Rodrigues, Pedro Leite Ferreira, Sandra Silva
 Starting from an initial LSTM RNN model with an output layer of two neurons (for classification into PT-PT or PT-BR), numerous experiments were conducted by modifying its hyperparameters (number of epochs, activation functions, learning rates, batch size, optimization function, and number of hidden layers and neurons), as well as by incorporating pre-trained components (word embeddings and pre-trained models). The best-performing model used the pre-trained BERTimbau model, achieving an F1 test score of 98%.
 
+## Develop Predictive Models for Churn Prediction in a Telecom Company
+#### Program: Python (Packages: Pandas, Pytorch, Sklearn)
+#### Authors: José Pedro Rodrigues, Pedro Leite Ferreira, Sandra Silva
+Analyzed and processed data to develop predictive models for churn prediction. Evaluated multiple models, including Decision Trees, K-Nearest Neighbors (KNN), Naive Bayes, Random Forest, Support Vector Machines (SVM), Neural Networks, and Logistic Regression
+
 ## Kidney Exchange Program Improvement
 #### Program: AMPL and Python
 #### Authors: José Pedro Rodrigues
