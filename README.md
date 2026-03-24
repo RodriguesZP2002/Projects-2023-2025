@@ -1,4 +1,5 @@
 # Projects 2023 - 2025
+Compilation of academic and non-academic projects developed between 2023 and 2025 in data science, machine learning, and optimization, implemented using multiple programming languages.
 ## Modeling a Quality-Oriented Evaluation System for Primary Health Care Teams in Portugal
 #### Program: Python and R
 #### Author: José Pedro Rodrigues
